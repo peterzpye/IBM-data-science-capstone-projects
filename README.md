@@ -1,4 +1,4 @@
 # IBM-data-science-capstone-projects
 repo for capstone projects
-# Hi Everyone, this is my github repository for capstone projects for IBM data science course!
+# Hello Capstone Project Course!
 Please feel free to leave some comments!
